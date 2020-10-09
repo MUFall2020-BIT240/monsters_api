@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bear Cub",
+    "hp": 10,
+    "dmg": 4
+  },
+  {
+    "name": "Tree Spirit",
+    "hp": 12,
+    "dmg": 5
+  }
+]
