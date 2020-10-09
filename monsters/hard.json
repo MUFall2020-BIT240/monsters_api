@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Undead Zombie",
+    "hp": 19,
+    "dmg": 10
+  },
+  {
+    "name": "Skeleton King",
+    "hp": 25,
+    "dmg": 11
+  }
+]
