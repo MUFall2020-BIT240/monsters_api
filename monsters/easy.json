@@ -1,12 +1,12 @@
 [
   {
     "name": "Little Mushroom",
-    "hp": 5
+    "hp": 5,
     "dmg": 1
   },
   {
     "name": "Wasp",
-    "hp": 6
+    "hp": 6,
     "dmg": 1
   }
 ]
